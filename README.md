@@ -2,7 +2,7 @@
 ## Project: Calculator 
 #### Description: This project describes how to create a simple calculator and take a deep-known in Python and PyQT6 
 **Required:** OOP Basics, Python Basics, PyQT6  
-
+<br>
 **Download PyQT6:**  
 `pip install pyside6`
 ### Folder Structure
