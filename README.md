@@ -18,5 +18,5 @@
 5. main.py (Run this file to show the UI on screen)
 6. Process (Main process)
 ### How to run file
-- On Terminal/ Command line: `python3 main.py`
-- On IDE: Click play button 
+1. On Terminal/ Command line: `python3 main.py`
+2. On Pycharm: *Click play button* 
