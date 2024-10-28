@@ -9,7 +9,7 @@
 
 **Download Designer:** `pip install pyqt6-tools` 
 
-**Run* Open Designer on Command Line/ Terminal:** `pyqt6-tools designer`
+**Run/ Open Designer on Command Line/ Terminal:** `pyqt6-tools designer`
 ### Folder Structure
 1. .venv (Enviromental)
 2. functions (Process from users input. Each function has different missions)
