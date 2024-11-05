@@ -384,7 +384,6 @@ class Ui_widget(object):
 
         self.gridLayout.addWidget(self.button_sum, 0, 3, 1, 1)
 
-
         self.retranslateUi(widget)
 
         QMetaObject.connectSlotsByName(widget)
