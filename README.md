@@ -13,10 +13,6 @@
 **Download Designer:** `pip install pyqt6-tools`
 
 **Run/ Open Designer on Command Line/ Terminal:** `pyqt6-tools designer`
-**Required:** OOP Basics, Python Basics, PyQT6 \\
-
-**Download PyQT6:**  
-`pip install pyside6`
 
 ### Folder Structure
 
