@@ -1,6 +1,6 @@
 import math 
 from math import cos, acos, sqrt, cbrt, pi, e, log
-##############################################################################################################################################
+################################################################################################################################
 ##      Giải thích: cos    : Dùng để tính cos                                                                                               ##
 ##                  acos   : Dùng để tính arcos                                                                                             ##
 ##                  sqrt   : Dùng để tính căn bậc 2                                                                                         ##
@@ -13,12 +13,11 @@ from math import cos, acos, sqrt, cbrt, pi, e, log
 ## Sử dụng hàm float cho các giá trị nhập cho phép chương trình được nhập tính các nghiệm số lẻ                                             ##
 ## Sau khi tính các giá trị x của phương trình, cho các giá trị của x vào 1 list gọi là list Nghiem để tiện rút trích                       ##
 ## Các nghiệm không có giá trị sẽ được đánh dấu bằng kí tự "x"  
-###########################################################################################################################################
-
+################################################################################################################################
 #Phép cộng
 def Phep_Cong(num_1: float, num_2: float): 
     """
-    Hàm thực hiện phép trừ
+    Hàm thực hiện phép cộng 
     """
     return num_1 + num_2
 #Đoạn code này có vai trò thực hiện phép tính cộng. Trong đoạn code có sử dụng Try-Except để báo ta nhập lại sau khi nhập sai.

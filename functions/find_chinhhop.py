@@ -2,7 +2,6 @@ from PySide6.QtWidgets import QApplication, QMainWindow, QMessageBox
 from PySide6.QtCore import Slot
 from py_ui.chinh_hop import Ui_chinh_hop_Widget
 import math 
-import sys 
 
 class Find_chinhHop(QMainWindow, Ui_chinh_hop_Widget):
     def __init__(self):
